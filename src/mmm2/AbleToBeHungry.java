@@ -7,7 +7,7 @@ package mmm2;
 
 /**
  *
- * @author Paweł Kuźmicki
+ * @author PawełKuźmickiPrzemysławPrzybyt
  */
 public interface AbleToBeHungry {
     

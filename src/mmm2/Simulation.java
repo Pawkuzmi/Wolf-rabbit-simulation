@@ -5,7 +5,7 @@ import org.jfree.data.xy.XYSeries;
 
 /**
  *
- * @author PawełKuźmicki
+ * @author PawełKuźmickiPrzemysławPrzybyt
  */
 public class Simulation {
     

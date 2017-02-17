@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author PawełKuźmicki
+ * @author PawełKuźmickiPrzemysławPrzybyt
  */
 public class Wolf extends Animal implements AbleToBeHungry{
     

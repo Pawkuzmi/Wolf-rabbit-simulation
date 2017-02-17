@@ -10,7 +10,7 @@ import org.jfree.data.xy.XYSeriesCollection;
 
 /**
  *
- * @author PawełKuźmicki
+ * @author PawełKuźmickiPrzemysławPrzybyt
  */
 public class Chart {
     

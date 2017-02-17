@@ -4,7 +4,7 @@ package mmm2;
 
 /**
  *
- * @author PawełKuźmicki
+ * @author PawełKuźmickiPrzemysławPrzybyt
  */
 public class Rabbit extends Animal{
     

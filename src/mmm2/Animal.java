@@ -2,7 +2,7 @@ package mmm2;
 
 /**
  *
- * @author PawełKuźmicki
+ * @author PawełKuźmickiPrzemysławPrzybyt
  */
 public class Animal {
     
@@ -68,9 +68,6 @@ public class Animal {
             }
         }
     }
-    
-  //  public abstract int getHunger();
-  //  public abstract void increaseHungerBy(int param);
 
     public int getMovement(){
         return this.movement;
